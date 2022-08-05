@@ -1,0 +1,4 @@
+#Wed Jun 22 19:19:51 WAT 2022
+base.0=C\:\\Users\\KAELO\\StudioProjects\\food_delivery_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
